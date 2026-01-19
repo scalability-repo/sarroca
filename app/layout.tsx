@@ -39,11 +39,20 @@ export const metadata: Metadata = {
     type: "website",
     locale: "es_ES",
     siteName: "Sarroca 1935",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 890,
+        height: 288,
+        alt: "Sarroca 1935 - Asset Management",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Sarroca 1935 | Asset Management",
     description: "Preservar. Crecer. Perdurar.",
+    images: ["/og-image.png"],
   },
 };
 
