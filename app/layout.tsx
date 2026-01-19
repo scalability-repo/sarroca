@@ -17,7 +17,7 @@ const sourceSans = Source_Sans_3({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_BASE_URL || "https://sarroca1935.com"),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_BASE_URL || "https://sarroca.scalability.es"),
   title: "Sarroca 1935 | Asset Management",
   description: "Vehículo de inversión familiar enfocado en el crecimiento y la preservación del patrimonio con una estrategia de largo plazo.",
   keywords: ["asset management", "family office", "inversiones", "Barcelona", "patrimonio familiar"],
